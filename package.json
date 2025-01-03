@@ -1,17 +1,17 @@
 {
-  "name": "@lobehub/tts",
-  "version": "1.25.8",
+  "name": "@silynometa/tts",
+  "version": "1.25.8-sily.1",
   "description": "A high-quality & reliable TTS React Hooks library",
-  "homepage": "https://github.com/lobehub/lobe-tts",
+  "homepage": "https://github.com/SilyNoMeta/sily-tts",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-tts/issues/new/choose"
+    "url": "https://github.com/SilyNoMeta/sily-tts/issues/new/choose"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-tts.git"
+    "url": "https://github.com/SilyNoMeta/sily-tts.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "SilyNoMeta <dev@silychat.com>",
   "sideEffects": false,
   "main": "es/index.js",
   "module": "es/index.js",
