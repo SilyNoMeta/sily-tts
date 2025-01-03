@@ -1,6 +1,6 @@
 {
   "name": "@silynometa/tts",
-  "version": "1.25.8-sily.1",
+  "version": "0.1.0",
   "description": "A high-quality & reliable TTS React Hooks library",
   "homepage": "https://github.com/SilyNoMeta/sily-tts",
   "bugs": {
